@@ -1,4 +1,4 @@
-name: Read the Docs PR preview
+.name: Read the Docs PR preview
 
 on:
   pull_request_target:
